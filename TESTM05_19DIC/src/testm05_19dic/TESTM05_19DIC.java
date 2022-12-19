@@ -15,7 +15,11 @@ public class TESTM05_19DIC {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //Primera 
+        //Primera prueba
+        int i=0;
+        while (i<100){
+            System.out.println("Valor de i: " + i);
+        }
     }
     
 }
